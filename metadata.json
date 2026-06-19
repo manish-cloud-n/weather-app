@@ -1,0 +1,6 @@
+{
+  "name": "Live Weather Analytics",
+  "description": "Interactive weather dashboard with real-time geocoding search suggestions, automated local news stories, tailored activity advice, and an interactive chat assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
